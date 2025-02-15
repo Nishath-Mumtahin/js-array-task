@@ -4,10 +4,10 @@
    3.change the value of the 2nd index element to jambura
    4.console log the final array
 */
-const fruits = ['Mango', 'Guava', 'Jackfruit', 'Lichi', 'Orange']
+const fruits = ['Mango', 'Guava', 'Jackfruit', 'Lichi', 'Orange'];
 
-console.log(fruits[2])
+console.log(fruits[2]);
 
 fruits[1] = 'Jambura';
 
-console.log(fruits)
+console.log(fruits);
