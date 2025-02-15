@@ -15,4 +15,4 @@ console.log(touristDestination);
 
 touristDestination.pop('Tanguar Haor');
 
-console.log(touristDestination)
+console.log(touristDestination);
